@@ -1,0 +1,6 @@
+dist/
+soundvia.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+pyproject.toml
